@@ -1,4 +1,5 @@
 # best-repo-ever
 this is a test entry
 finish
-a new line added Wed 21 March at 9:24am
+A new day dawning 21MAR2018 1003
+
